@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,GACI,WACJ,CAEA,QACI,SACJ,CAEA,KACI,WACJ","file":"main.16db4e1e.chunk.css","sourcesContent":["h2 {\r\n    color: green;\r\n}\r\n\r\n.delete {\r\n    color: red\r\n}\r\n\r\n.add {\r\n    color:green\r\n}"]}
